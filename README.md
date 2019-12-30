@@ -1,8 +1,7 @@
 # R-Resource-Links
 
 # Mapping
-## shiny
-### tmap
+## shiny tmap
 https://shiny.rstudio.com/articles/layout-guide.html  
 https://rdrr.io/cran/tmap/man/renderTmap.html
 ## leaflet
