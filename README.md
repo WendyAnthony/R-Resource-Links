@@ -1,4 +1,10 @@
 # R-Resource-Links
+
+# Mapping
+## tmap
+## leaflet
+## shiny
+https://shiny.rstudio.com/articles/layout-guide.html
 # Geospatial
 ## Whitebox
 https://github.com/giswqs/whiteboxR  
