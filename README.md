@@ -5,6 +5,7 @@
 ## leaflet
 ## shiny
 https://shiny.rstudio.com/articles/layout-guide.html
+https://rdrr.io/cran/tmap/man/renderTmap.html
 # Geospatial
 ## Whitebox
 https://github.com/giswqs/whiteboxR  
