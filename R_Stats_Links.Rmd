@@ -634,7 +634,7 @@ https://journal.r-project.org/
 *** https://geodacenter.github.io/workbook/6a_local_auto/lab6a.html#local-moran ***
 
 A method for computing hourly, historical, terrain‐corrected microclimate anywhere on Earth  
-https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13330
+https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13330  
 
 ---
 
