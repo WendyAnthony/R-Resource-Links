@@ -1,11 +1,6 @@
 # R-Resource-Links
 
-# Mapping
-## shiny tmap
-https://shiny.rstudio.com/articles/layout-guide.html  
-https://rdrr.io/cran/tmap/man/renderTmap.html
-## leaflet
-# Geospatial
-## Whitebox
-https://github.com/giswqs/whiteboxR  
-https://jblindsay.github.io/wbt_book/available_tools/index.html
+https://wendyanthony.github.io/R_Stats_Links-io.html
+
+http://people.geog.uvic.ca/wanthony/website/etc/R_Stats_Links.html
+
