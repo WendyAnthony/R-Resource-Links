@@ -592,7 +592,7 @@ https://www.google.ca/search?q=r+gtable&ie=UTF-8&oe=UTF-8&hl=en-ca&client=safari
 
 https://rspatial.org/raster/analysis/8-pointpat.html
 
-https://rspatial.org/_sources/analysis/8-pointpat.R.txt
+https://rspatial.org/_sources/analysis/8-pointpat.R.txt _
 
 https://channel9.msdn.com/Events/useR-international-R-User-conferences/useR-International-R-User-2017-Conference/mapedit-interactive-manipulation-of-spatial-objects
 
@@ -634,7 +634,7 @@ https://journal.r-project.org/
 *** https://geodacenter.github.io/workbook/6a_local_auto/lab6a.html#local-moran ***
 
 A method for computing hourly, historical, terrain‐corrected microclimate anywhere on Earth  
-https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13330  
+https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13330
 
 ---
 
