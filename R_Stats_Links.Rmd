@@ -1,7 +1,7 @@
 ---
 title: "R Stats Resource Links"
 author: "Collected by Wendy Anthony"
-date: "2019-11-17 (updated 2019-12-16)"
+date: "2019-11-17 (updated 2020-01-09)"
 output: 
   html_document:
     toc: true
