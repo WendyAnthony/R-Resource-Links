@@ -54,6 +54,8 @@ https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
 
 [Convert R Markdown (Rmd) Files to R Scripts](https://www.garrickadenbuie.com/blog/convert-r-markdown-rmd-files-to-r-scripts/)
 
+[How to Write Lists Inside Markdown Table](https://stackoverflow.com/questions/19950648/how-to-write-lists-inside-a-markdown-table)
+
 How to use objects from global environment in Rstudio Markdown  
 https://stackoverflow.com/questions/34029611/how-to-use-objects-from-global-environment-in-rstudio-markdown
 
@@ -198,6 +200,8 @@ https://sourcethemes.com/academic/
 
 ## Shiny
 https://shiny.rstudio.com/
+
+https://shiny.rstudio.com/articles/layout-guide.html
 
 *** https://shiny.rstudio.com/gallery/
 
@@ -631,6 +635,14 @@ https://journal.r-project.org/
 
 A method for computing hourly, historical, terrain‐corrected microclimate anywhere on Earth  
 https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13330
+
+---
+
+## Remote Sensing in R
+
+### Whitebox
+https://github.com/giswqs/whiteboxR  
+https://jblindsay.github.io/wbt_book/available_tools/index.html
 
 ---
 
@@ -1203,7 +1215,10 @@ https://rstats.wtf/
 
 # Climate & Weather
 GWEX: Multi-Site Stochastic Models for Daily Precipitation and Temperature  
-https://cran.r-project.org/web/packages/GWEX/index.html
+- https://cran.r-project.org/web/packages/GWEX/index.html  
+- https://www.rdocumentation.org/packages/GWEX/versions/1.0.2/source  
+- https://www.rdocumentation.org/packages/GWEX/versions/1.0.2  
+- https://rdrr.io/cran/GWEX/src/R/myParPrecGWEX-data.r
 
 
 ---
